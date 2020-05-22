@@ -40,8 +40,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
- 
-dev_dependencies:
+    
   # Enables the `pub run build_runner` command
   build_runner: ^1.1.2
   # Includes the JavaScript compilers
